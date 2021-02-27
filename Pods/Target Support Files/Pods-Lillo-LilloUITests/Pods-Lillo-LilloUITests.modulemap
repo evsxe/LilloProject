@@ -1,0 +1,6 @@
+framework module Pods_Lillo_LilloUITests {
+  umbrella header "Pods-Lillo-LilloUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
